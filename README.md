@@ -37,7 +37,7 @@ Linear(1024 → 38)   ← output classes
 
 ---
 
-## ⚙️ Training Details
+## Training Details
 
 | Setting | Value |
 |---|---|
