@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection using CNN (VGG16)
+# Plant Disease Detection using CNN (VGG16)
 
 A deep learning project that detects plant diseases from leaf images using **Transfer Learning with VGG16**. Trained on the **PlantVillage dataset**, this model can identify **38 different plant disease classes** with high accuracy.
 
