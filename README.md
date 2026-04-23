@@ -86,23 +86,8 @@ Output includes the predicted class name, confidence percentage, and top-3 predi
 
 ---
 
-## 🚀 How to Run
 
-1. Open the notebook in **Google Colab** (GPU recommended)
-2. Install dependencies:
-   ```bash
-   pip install kagglehub
-   ```
-3. Run all cells top to bottom:
-   - Downloads dataset automatically via KaggleHub
-   - Trains Phase 1 (classifier only)
-   - Fine-tunes Phase 2 (last conv blocks)
-   - Runs inference on test images
-4. Upload your own leaf images when prompted to test the model
-
----
-
-## 🛠️ Requirements
+## Technologies
 
 ```
 torch
