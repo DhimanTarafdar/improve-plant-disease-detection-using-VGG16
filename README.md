@@ -4,7 +4,7 @@ A deep learning project that detects plant diseases from leaf images using **Tra
 
 ---
 
-## 📌 What This Project Does
+## What This Project Does
 
 Given a photo of a plant leaf, the model tells you:
 - **What disease** the plant has (or if it's healthy)
