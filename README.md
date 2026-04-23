@@ -21,7 +21,7 @@ Given a photo of a plant leaf, the model tells you:
 
 ---
 
-## 🏗️ Model Architecture
+## Model Architecture
 
 Uses **VGG16** pretrained on ImageNet — the convolutional base is kept frozen (as a feature extractor), and a custom classifier is attached on top:
 
