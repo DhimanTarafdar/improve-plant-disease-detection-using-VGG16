@@ -13,7 +13,7 @@ Given a photo of a plant leaf, the model tells you:
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 - **Source:** [PlantVillage Dataset](https://www.kaggle.com/datasets/mohitsingh1804/plantvillage) (via KaggleHub)
 - **Classes:** 38 (covering multiple crops and disease types)
