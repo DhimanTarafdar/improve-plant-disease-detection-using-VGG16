@@ -99,17 +99,9 @@ matplotlib
 
 ---
 
-## 📊 Training Plots
+## Training Plots
 
 The notebook generates loss and accuracy curves for both phases, including a reference line showing the Phase 1 best accuracy — so you can visually confirm whether fine-tuning improved performance.
 
 ---
 
-## 📁 Project Structure
-
-```
-├── Improve_Plant_Disease_Detection_using_CNN.ipynb   # Main notebook
-├── best_plant_disease_vgg16.pth                      # Phase 1 best weights
-├── best_plant_disease_finetuned.pth                  # Phase 2 best weights
-└── plant_disease_finetuned.pth                       # Final model export
-```
