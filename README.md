@@ -54,7 +54,7 @@ Random crop, horizontal & vertical flip, rotation (±30°), and color jitter (br
 
 ---
 
-## 🔁 Two-Phase Training Strategy
+## Two-Phase Training Strategy
 
 ### Phase 1 — Classifier Training
 Only the new classifier layers are trained. The VGG16 convolutional backbone stays frozen. This is fast and avoids overfitting early on.
