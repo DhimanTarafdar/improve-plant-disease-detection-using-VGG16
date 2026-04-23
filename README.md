@@ -66,7 +66,7 @@ The best Phase 1 model is loaded, then the **last 2 convolutional blocks** (laye
 
 ---
 
-## 🧪 Inference
+## Inference
 
 The model can predict on:
 - **Validation set images** (from the dataset)
@@ -76,7 +76,7 @@ Output includes the predicted class name, confidence percentage, and top-3 predi
 
 ---
 
-## 💾 Saved Models
+## Saved Models
 
 | File | Description |
 |---|---|
